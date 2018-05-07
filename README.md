@@ -34,7 +34,7 @@ apache/xamppp
 
 * Just adding mysqli_real_escape_string before every query will fix the mysql injection attacks.
 
-##ToDo (But Not Asked For)
+## ToDo (But Not Asked For)
 
 * Add Friends
 * News Feed
