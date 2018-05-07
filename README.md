@@ -16,6 +16,7 @@ apache/xamppp
 * [PHP](http://php.net) - PHP
 * [MySQL](https://www.mysql.com) - MySQL
 * [Semantic-UI](https://semantic-ui.com) - Semantic UI
+* [FlightPHP](http://flightphp.com) - FlightPHP (For RESTful routing)
 
 ## Authors
 
@@ -32,3 +33,9 @@ apache/xamppp
 ## Note
 
 * Just adding mysqli_real_escape_string before every query will fix the mysql injection attacks.
+
+##ToDo (But Not Asked For)
+
+* Add Friends
+* News Feed
+* Share Text Statuses
