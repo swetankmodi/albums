@@ -28,3 +28,6 @@ echo '<br><div class="ui inverted vertical footer segment">
     </div>
   </div>
 </div>';?>
+<script type="text/javascript" src="semantic/dist/components/rating.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="semantic/dist/semantic.min.js"></script>
