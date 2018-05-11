@@ -32,10 +32,5 @@ apache/xamppp
 
 ## Note
 
-* Just adding mysqli_real_escape_string before every query will fix the mysql injection attacks.
-
-## ToDo (But Not Asked For) ETA: June 2018
-
-* Add Friends
-* News Feed
-* Share Text Statuses
+* Fixed the SQL
+* The PHP functions are in the directory dist/functions
